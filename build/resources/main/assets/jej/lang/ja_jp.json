@@ -1,0 +1,48 @@
+{
+  "key.categories.jej": "JEJ - Just Enough Japanese Config",
+  "key.jej.open_hub": "JEJ設定ハブを開く",
+
+  "jej.config.chaosMode": "Chaosモード(イースターエッグ)",
+  "jej.config.showModId": "MOD一覧にMOD IDも表示する",
+
+  "jej.hub.title": "JEJ - 設定ハブ",
+  "jej.hub.empty": "編集可能な設定を持つMODが見つかりませんでした。",
+
+  "jej.button.back": "戻る",
+  "jej.button.save": "保存",
+  "jej.button.apply": "適用",
+  "jej.button.prevPage": "◀ 前のページ",
+  "jej.button.nextPage": "次のページ ▶",
+
+  "jej.edit.title": "%s の設定",
+  "jej.edit.openCategory": "開く ▶",
+  "jej.edit.changed": "変更されました(まだ保存されていません)",
+  "jej.edit.saved": "保存しました！",
+
+  "jej.value.true": "はい",
+  "jej.value.false": "いいえ",
+
+  "jej.error.null_value": "Nullはその値に対応していません。他の値に変更してください。",
+  "jej.error.null_value.chaos": "ちょーっと待って！そこにはNullを入れれないよ！対応する他の値を入力してね！",
+
+  "jej.error.invalid_value": "その値は無効です。別の値を入力してください。",
+  "jej.error.invalid_value.chaos": "んー、その値はちょっと違うかも！別の値にしてみて！",
+
+  "jej.error.parse_failed": "数値として読み取れませんでした。正しい形式で入力してください。",
+  "jej.error.parse_failed.chaos": "あれ、それ数字に見えないんだけど…？ちゃんと数字で書いてみて！",
+
+  "jej.error.nothing_to_save": "変更がありません。",
+  "jej.error.nothing_to_save.chaos": "あれ、何も変えてないよ？保存するものが無いみたい！",
+
+  "jej.save.title": "設定の保存",
+  "jej.save.title.chaos": "ちょっと待った！",
+
+  "jej.save.message": "変更を保存します。危険性がある可能性がありますが、よろしいですか？",
+  "jej.save.message.chaos": "その値、本当に大丈夫？変更したら壊れる値も変更してる可能性もあるから、もう一回確認する？",
+
+  "jej.save.confirm": "はい",
+  "jej.save.confirm.chaos": "いや、大丈夫！",
+
+  "jej.save.cancel": "いいえ",
+  "jej.save.cancel.chaos": "ちょっと確認してくる。"
+}
